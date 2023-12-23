@@ -1,0 +1,8 @@
+#backend
+fastapi[all]
+sqlmodel
+uvicorn
+
+
+
+# Add other necessary packages later
